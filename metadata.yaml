@@ -1,0 +1,33 @@
+_repo: Naturaleza-de-las-cosas-Version-en-prosa-del-poema-De-rerum-natura_62711
+_version: 0.0.1
+contributor:
+  adapter:
+    agent_name: Lucrecio Caro, Tito
+    gutenberg_agent_id: '52091'
+    url: http://www.gutenberg.org/2009/agents/52091
+  translator:
+    agent_name: Rodríguez-Navas, Manuel
+    aliases:
+    - Rodríguez-Navas y Carrasco, Manuel
+    - Rodriguez-Navas, Manuel
+    birthdate: 1848
+    deathdate: 1922
+    gutenberg_agent_id: '52087'
+    url: http://www.gutenberg.org/2009/agents/52087
+    wikipedia: https://es.wikipedia.org/wiki/Manuel_Rodr%C3%ADguez-Navas_y_Carrasco
+description: ''
+gutenberg_issued: '2020-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62711'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophy, Ancient'
+- !lcsh 'Didactic poetry, Latin -- Adaptations'
+- !lcc 'PA'
+- GITenberg
+title: 'Naturaleza de las cosas: Versión en prosa del poema «De rerum natura»'
+url: http://www.gutenberg.org/ebooks/62711
